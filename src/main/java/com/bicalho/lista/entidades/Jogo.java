@@ -1,4 +1,4 @@
-package com.bicalho.lista.entities;
+package com.bicalho.lista.entidades;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
